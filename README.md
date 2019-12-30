@@ -1,2 +1,0 @@
-# outPath
-kbengine outPath

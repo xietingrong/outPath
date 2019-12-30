@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4289280144
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95a8bb741a50d5d28493511d5b8fc316
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/@gameconfiges/prop_configs.json
+- Assets/Resources/@gameconfiges/Items.json
+- Assets/Resources/@gameconfiges/monster_configs.json
+- Assets/Resources/@gameconfiges/space_spawn_configs.json
+Dependencies: []

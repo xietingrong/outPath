@@ -1,2 +1,0 @@
-res=1.0.0.2
-fileList=fda28fcdeb3092965ca2721b5ed3b2d6
